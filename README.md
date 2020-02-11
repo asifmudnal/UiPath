@@ -1,4 +1,6 @@
 # UiPath
+Resume Sorting based on technology with RPA UiPath
+
 This process aims at sorting of Resumes which the HR receives during the time of Companies Recruitement and it is hectic job for HR to open every mail download it and then screen each and every resumes and Sort them . this process is time consuming and very difficult so with the help of UiPath it has been automated where
 
 * The Robot checks the HR email on regular Interval and if there are any Resumes from the candidate then Downloads it and  save it in a folder
